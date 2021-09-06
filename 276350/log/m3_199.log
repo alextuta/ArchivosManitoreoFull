@@ -1,0 +1,28 @@
+2021-09-05 07:28:34,140 :: INFO :: Start experiment: luna-276350
+2021-09-05 07:28:34,144 :: INFO :: Control node : Starting of control node serial interface
+2021-09-05 07:28:34,147 :: INFO :: Control node : reset
+2021-09-05 07:28:34,149 :: INFO :: Reset Control Node
+2021-09-05 07:28:37,102 :: INFO :: Control node : start power of open node
+2021-09-05 07:28:37,161 :: INFO :: Node OpenOCD: Setup of openocd node
+2021-09-05 07:28:40,213 :: INFO :: Node OpenOCD: flash of openocd node
+2021-09-05 07:28:40,228 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpDPFsbn--07af995c71c4c03e0b354753e4bf4313_unicast-sender-count-30T-191B.iotlab-m3
+2021-09-05 07:28:47,206 :: INFO :: Control node : Start experiment
+2021-09-05 07:28:47,290 :: INFO :: Control Node set time delay: 1892 us
+2021-09-05 07:28:47,313 :: INFO :: Control node : profile configuration
+2021-09-05 07:28:47,316 :: INFO :: Configure profile on Control Node
+2021-09-05 07:28:47,360 :: INFO :: Start experiment succeeded
+2021-09-05 08:29:53,157 :: INFO :: Gateway Manager : Stop experiment
+2021-09-05 08:29:53,167 :: INFO :: Stop experiment
+2021-09-05 08:29:53,175 :: INFO :: Control node : stop of the experiment
+2021-09-05 08:29:53,183 :: INFO :: Control node : profile configuration
+2021-09-05 08:29:53,190 :: INFO :: Configure profile on Control Node
+2021-09-05 08:29:53,268 :: INFO :: Control node : start power of open node
+2021-09-05 08:29:53,311 :: INFO :: Node OpenOCD: teardown of openocd node
+2021-09-05 08:29:56,358 :: INFO :: openocd node debugger stop
+2021-09-05 08:29:57,010 :: INFO :: Node OpenOCD: flash of openocd node
+2021-09-05 08:29:57,018 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python2.7/site-packages/gateway_code/static/m3_idle.elf
+2021-09-05 08:29:59,523 :: INFO :: Control node : Stop control node serial interface
+2021-09-05 08:29:59,528 :: INFO :: Control node : stop power of open node
+2021-09-05 08:29:59,588 :: INFO :: Control node : reset
+2021-09-05 08:29:59,591 :: INFO :: Reset Control Node
+2021-09-05 08:30:02,477 :: INFO :: Stop experiment succeeded
