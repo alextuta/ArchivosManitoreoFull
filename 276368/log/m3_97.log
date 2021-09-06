@@ -1,0 +1,29 @@
+2021-09-06 01:53:28,262 :: INFO :: Start experiment: luna-276368
+2021-09-06 01:53:28,265 :: INFO :: Control node : Starting of control node serial interface
+2021-09-06 01:53:28,268 :: INFO :: Control node : reset
+2021-09-06 01:53:28,270 :: INFO :: Reset Control Node
+2021-09-06 01:53:31,222 :: INFO :: Control node : start power of open node
+2021-09-06 01:53:31,277 :: INFO :: Node OpenOCD: Setup of openocd node
+2021-09-06 01:53:34,315 :: INFO :: Node OpenOCD: flash of openocd node
+2021-09-06 01:53:34,334 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpU0sphD--07af995c71c4c03e0b354753e4bf4313_unicast-sender-count-30T-191B.iotlab-m3
+2021-09-06 01:53:41,181 :: INFO :: Control node : Start experiment
+2021-09-06 01:53:41,236 :: INFO :: Control Node set time delay: 1800 us
+2021-09-06 01:53:41,265 :: INFO :: Control node : profile configuration
+2021-09-06 01:53:41,272 :: INFO :: Configure profile on Control Node
+2021-09-06 01:53:41,352 :: INFO :: Start experiment succeeded
+2021-09-06 02:53:47,512 :: INFO :: Gateway Manager : Stop experiment
+2021-09-06 02:53:47,521 :: INFO :: Stop experiment
+2021-09-06 02:53:47,530 :: INFO :: Control node : stop of the experiment
+2021-09-06 02:53:47,540 :: INFO :: Control node : profile configuration
+2021-09-06 02:53:47,548 :: INFO :: Configure profile on Control Node
+2021-09-06 02:53:47,620 :: INFO :: Control node : start power of open node
+2021-09-06 02:53:47,665 :: INFO :: Node OpenOCD: teardown of openocd node
+2021-09-06 02:53:50,720 :: INFO :: openocd node debugger stop
+2021-09-06 02:53:51,415 :: INFO :: Node OpenOCD: flash of openocd node
+2021-09-06 02:53:51,430 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python2.7/site-packages/gateway_code/static/m3_idle.elf
+2021-09-06 02:53:54,000 :: INFO :: Control node : Stop control node serial interface
+2021-09-06 02:53:54,005 :: INFO :: Control node : stop power of open node
+2021-09-06 02:53:54,058 :: INFO :: Control node : reset
+2021-09-06 02:53:54,062 :: INFO :: Reset Control Node
+2021-09-06 02:53:55,221 :: ERROR :: RestServer: Request would block, abort
+2021-09-06 02:53:56,981 :: INFO :: Stop experiment succeeded
